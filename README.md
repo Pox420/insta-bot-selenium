@@ -4,6 +4,10 @@
 1. pip install selenium
 2. pip install webdriver_manager
 
+```diff
+- Make sure to add your instagram USERNAME and PASSWORD* in **username_password.py** file.
+```
+
 ## To run 
 ``` python main.py ```
 
